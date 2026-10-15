@@ -37,7 +37,7 @@ Tüm sürümler: [Releases](https://github.com/abdullah-eksi/aexp_mediasource/re
 
 ## Kurulum
 
-Kaynak kodlar paylaşılmaz. Sadece kurulum dosyası dağıtılır:
+AeXp Source Media Setup Exe Dosyasını Çalıştırın Basit Şekilde Kurun !
 
 - `AeXp Source Media 1.0.0 Setup.exe` — klasik kurulum (Masaüstü + Başlat menüsü kısayolu)
 
