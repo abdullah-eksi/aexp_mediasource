@@ -31,7 +31,7 @@ Tüm sürümler: [Releases](https://github.com/abdullah-eksi/aexp_mediasource/re
 | yt-dlp | Video / ses / playlist indirme motoru |
 | FFmpeg | Ses-video birleştirme ve format dönüştürme |
 | Deno | yt-dlp'nin site doğrulamaları için gereken JS çalıştırıcısı |
-| electron-builder (NSIS + Portable) | Kurulum dosyası (Setup) ve kurulum gerektirmeyen (Portable) sürüm üretir |
+| electron-builder (NSIS) | Kurulum dosyası (Setup) üretir |
 | yauzl | İndirilen zip içinden program dosyası çıkarmak için |
 | ffmpeg-static | Kurulum paketine hazır FFmpeg eklemek için |
 
@@ -40,7 +40,6 @@ Tüm sürümler: [Releases](https://github.com/abdullah-eksi/aexp_mediasource/re
 Kaynak kodlar paylaşılmaz. Sadece kurulum dosyası dağıtılır:
 
 - `AeXp Source Media 1.0.0 Setup.exe` — klasik kurulum (Masaüstü + Başlat menüsü kısayolu)
-- `AeXp Source Media 1.0.0 Portable.exe` — kurulum gerektirmez, doğrudan çalışır
 
 1. Setup dosyasını çalıştırıp kayıt klasörünü seçin.
 2. Uygulamayı açın, ilk açılışta bileşenler otomatik hazırlanır.
