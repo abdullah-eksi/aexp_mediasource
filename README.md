@@ -5,6 +5,12 @@ Masaüstü medya indirici ve dönüştürücü. Tek video, oynatma listesi ve to
 Sürüm: 1.0.0
 Geliştirici: Abdullah Ekşi — [abdullaheksi.tr](https://abdullaheksi.tr) / [aexpan.tr](https://aexpan.tr)
 
+## İndir
+
+**[AeXp Source Media 1.0.0 Setup.exe'yi indir](https://github.com/abdullah-eksi/aexp_mediasource/releases/download/v1.0.0/AeXp.Source.Media.1.0.0.Setup.exe)**
+
+Tüm sürümler: [Releases](https://github.com/abdullah-eksi/aexp_mediasource/releases)
+
 ## Ne Yapar?
 
 - Tek video, playlist ve çoklu URL ile toplu indirme
